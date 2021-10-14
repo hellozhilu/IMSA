@@ -4,7 +4,7 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
 1. For the source code, the format of input parameters are listed as follows,      
    **-f ./instance/luxembourg.graph -t 3600 -r 1 -g 50009947 -v 0.00013832 -n 0 -h 80 -s 10000 -y 0.98 -x 200000 -z 5 -c 60000**    
    Among them,   
-   **-f ./instance/luxembourg.graph**>>//instancce file  
+   **-f ./instance/luxembourg.graph**         //instancce file  
    **-t 3600**                        >>//maximum run time  
    **-r 1**                          >> //run counts  
    **-g 50009947**                    //random seed  
