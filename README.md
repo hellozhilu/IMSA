@@ -6,9 +6,9 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    Among them,   
    **-f ./instance/luxembourg.graph** //instancce file  
    **-t 3600**                        //maximum run time  
-   **-r 1**                           //run counts  
+   **-r 1**                           //run counter  
    **-g 50009947**                    //random seed  
-   **-v 0.00013832**                  //best-known result for current instance
+   **-v 0.00013832**                  //best-known result for current instance  
    **-h 80**                          //Tabu tenure management factor of tabu search  
    **-s 10000**                       //Maximum number of consecutive non-improving iterations of tabu search  
    **-y 0.98**                        //Cooling ratio of SA search  
