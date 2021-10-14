@@ -15,11 +15,13 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-x 200000**                      //Maximum number of iterations per temperature of SA search  
    **-z 5**                           //Frozen state parameter of SA search  
    **-c 60000**                       //Coarsening threshold  
+   
    Parameter  | Description 
   ------------- | ------------- 
   **-f ./instance/luxembourg.graph**  | instancce file  
- **-t 3600**  | maximum run time  
-   You can specify the parameters to match your needs when you execute the program.
+  **-t 3600**  | maximum run time  
+  
+  You can specify the parameters to match your needs when you execute the program.
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
    Lu, Z., Hao, J. K., Benlic, U., & Lesaint, D. (2021). Iterated multilevel simulated annealing for large-scale graph conductance minimization. Information Sciences, 572, 182-199.
