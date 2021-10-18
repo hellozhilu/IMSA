@@ -16,6 +16,7 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-z 5**                           //Frozen state parameter of SA search  
    **-c 60000**                       //Coarsening threshold  
   You can specify the parameters to match your needs when you execute the code.
+  If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
    Lu, Z., Hao, J. K., Benlic, U., & Lesaint, D. (2021). Iterated multilevel simulated annealing for large-scale graph conductance minimization. Information Sciences, 572, 182-199.
