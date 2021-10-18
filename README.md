@@ -22,4 +22,4 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    Lu, Z., Hao, J. K., Benlic, U., & Lesaint, D. (2021). Iterated multilevel simulated annealing for large-scale graph conductance minimization. Information Sciences, 572, 182-199.
 
 3. The binary code is distributed for academic purposes only.    
-   If you wish to use it for commercial applications, please contact the authors (zhilusix@gmail.com, jin-kao.hao@univ-angers.fr).
+   If you wish to use it for commercial applications, please contact the authors (Zhi Lu: zhilusix@gmail.com, Jin-Kao Hao: jin-kao.hao@univ-angers.fr).
