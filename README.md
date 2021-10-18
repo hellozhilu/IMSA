@@ -5,10 +5,10 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    The format of input parameters are listed as follows,      
    **-f ./instance/luxembourg.graph -t 3600 -r 1 -n 0 -g 50009947 -v 0.00013832 -c 60000 -x 200000 -y 0.98 -z 5 -s 10000 -h 80**    
    Among them,   
-   **-f ./instance/luxembourg.graph** //instance file  
+   **-f ./instance/luxembourg.graph** //input instance file  
    **-t 3600**                        //cutoff time per run (3600 seconds)  
    **-r 1**                           //run counter  
-   **-n 0**                           //MQI input file no.  
+   **-n 0**                           //input MQI file no.  
    **-g 50009947**                    //random seed  
    **-v 0.00013832**                  //best-known result for current instance  
    **-c 60000**                       //coarsening threshold  
