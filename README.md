@@ -1,7 +1,8 @@
 # IMSA
 Binary code for the article "Iterated Multilevel Simulated Annealing for Large-Scale Graph Conductance Minimization"
 
-1. For the binary code, the format of input parameters are listed as follows,      
+1. For the binary code, you can specify the parameters to match your needs when you execute the code.  
+   The format of input parameters are listed as follows,      
    **-f ./instance/luxembourg.graph -t 3600 -r 1 -g 50009947 -v 0.00013832 -n 0 -h 80 -s 10000 -y 0.98 -x 200000 -z 5 -c 60000**    
    Among them,   
    **-f ./instance/luxembourg.graph** //instance file  
@@ -15,7 +16,6 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-x 200000**                      //Maximum number of iterations per temperature of SA search  
    **-z 5**                           //Frozen state parameter of SA search  
    **-c 60000**                       //Coarsening threshold  
-  You can specify the parameters to match your needs when you execute the code.  
   If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
