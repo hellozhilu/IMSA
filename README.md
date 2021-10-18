@@ -17,10 +17,7 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-z 5**                           //frozen state parameter of SA search  
    **-s 10000**                       //maximum number of consecutive non-improving iterations of tabu search  
    **-h 80**                          //tabu tenure management factor of tabu search  
-
-
-
-  If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).
+   If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
    Lu, Z., Hao, J. K., Benlic, U., & Lesaint, D. (2021). Iterated multilevel simulated annealing for large-scale graph conductance minimization. Information Sciences, 572, 182-199.
