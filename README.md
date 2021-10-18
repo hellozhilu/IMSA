@@ -8,7 +8,7 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-f ./instance/luxembourg.graph** //instance file  
    **-t 3600**                        //cutoff time per run (3600 seconds)  
    **-r 1**                           //run counter  
-   **-n 0**                           //MOI input file no.
+   **-n 0**                           //MOI input file no.  
    **-g 50009947**                    //random seed  
    **-v 0.00013832**                  //best-known result for current instance  
    **-c 60000**                       //coarsening threshold  
