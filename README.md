@@ -1,8 +1,8 @@
 # IMSA
 Binary code for the article "Iterated Multilevel Simulated Annealing for Large-Scale Graph Conductance Minimization"
 
-1. For the binary code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under Linux operating system.  
-   The format of input parameters are listed as follows,      
+1. For the binary code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under the Linux operating system.  
+   The format of input parameters is listed as follows,      
    **./src/IMSA.exe -f ./instance/luxembourg.graph -t 3600 -r 1 -n 0 -g 50009947 -v 0.00013832 -c 60000 -x 200000 -y 0.98 -z 5 -s 10000 -h 80**    
    Among them,  
    **./src/IMSA.exe**                 //binary code  
@@ -11,7 +11,7 @@ Binary code for the article "Iterated Multilevel Simulated Annealing for Large-S
    **-r 1**                           //run counter  
    **-n 0**                           //input MQI file no.  
    **-g 50009947**                    //random seed  
-   **-v 0.00013832**                  //best-known result for current instance  
+   **-v 0.00013832**                  //best-known result for the current instance  
    **-c 60000**                       //coarsening threshold  
    **-x 200000**                      //maximum number of iterations per temperature of SA search  
    **-y 0.98**                        //cooling ratio of SA search  
